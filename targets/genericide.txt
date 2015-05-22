@@ -1,0 +1,4 @@
+URL: http://genericide-blog.blogspot.com/
+Hash: bb306c0b55e6b78aa4d397e3c97523c7
+Enabled: true
+Element: <h2 class=\'date-header\'><span>(.*?)</span></h2>

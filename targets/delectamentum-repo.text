@@ -1,0 +1,4 @@
+URL: https://github.com/morerunes/delectamentum-domestic-flagship
+Hash: 1679091c5a880faf6fb5e6087eb1b2dc
+Enabled: true
+Element: <li class=\"commits">.*?<span class=\"num text-emphasized\">[\s\n]*(.*?)[\s\n]*</span>

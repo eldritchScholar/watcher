@@ -1,0 +1,4 @@
+URL: http://sugoi.mellow.moe:32380
+Hash: 9f11269d1f89337cabb6435218578ffc
+Enabled: true
+Element: Whole Page
